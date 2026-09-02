@@ -31,12 +31,12 @@ El método `mostrarIdentificacion()`, definido una única vez en `Actividad` (y 
 
 ## Cómo ejecutar el proyecto
 
-1. Clonar el repositorio:
+1. Clonar el repositorio en Simbolo de sistema (cmd):
    ```bash
    git clone https://github.com/valentinatoledo23/PP_TP1_53522.git
    ```
 2. Abrir la carpeta del proyecto con **IntelliJ IDEA**.
-3. Ejecutar la clase `App` (contiene el método `main`).
+3. Ejecutar la clase `App` (contiene el método `main`) para poder ver la salida.
 
 ## Ejemplo de ejecución
 
